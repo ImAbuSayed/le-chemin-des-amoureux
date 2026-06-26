@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chemin-des-amoureux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Le Chemin Des Amoureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chemin-des-amoureux/) |
+| **Get License** | [Request Licensing for Le Chemin Des Amoureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chemin-des-amoureux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> On se croise dans le club, baby t'as capté mon regard
+> Ton allure de reine, on se perd dans le noir
+> Viens avec moi sur le chemin des amoureux
+> On brûle la piste ensemble, c'est un jeu dangereux
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
